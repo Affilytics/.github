@@ -10,7 +10,7 @@ Most creators link to Amazon.com by default, but a large share of their audience
 - **Full-footprint link discovery:** scans YouTube channels and blogs to find every affiliate link a creator has already published, across most of networks.
 - **Continuous health monitoring:** flags broken, out-of-stock, attribution-lost, and blocked links, not just simple 404s.
 
-## Built as real infrastructuref
+## Built as real infrastructure
 
 Affilytics is production software built by senior engineers, not an AI wrapper. The link-health and routing engine does stealth HTTP checking, proxy rotation, WAF detection, and GeoIP routing.
 

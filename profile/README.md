@@ -1,3 +1,8 @@
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/header-dark.png">
+  <img alt="Affilytics — Affiliate link geo-routing and broken-link monitoring, built in Rust" src="./assets/header.png" width="100%">
+</picture>
+
 # Affilytics
 
 **Affiliate link infrastructure for content creators: geo-routed smart links, link-health monitoring, and an MCP server for AI-agent workflows.**

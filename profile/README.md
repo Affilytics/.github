@@ -1,4 +1,4 @@
-<img alt="Affilytics — Affiliate link geo-routing and broken-link monitoring, built in Rust" src="./assets/header-dark.png" width="100%">
+<img alt="Affilytics — Affiliate link geo-routing and broken-link monitoring, built in Rust" src="./assets/header.png" width="100%">
 
 # Affilytics
 
